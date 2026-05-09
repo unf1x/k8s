@@ -203,7 +203,7 @@ helm install prometheus prometheus-community/kube-prometheus-stack
 ![password](images/password.png)
 
 ![grafana1](images/grafana1.jpg)
-### Импортируем готовый dashboard 1860 по инструкции:
+### Импортируем готовый dashboard 1860:
 
 ![grafana2](images/grafana2.jpg)
 
